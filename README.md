@@ -2,11 +2,11 @@
 
 Veuillez clone ce projet :
 
-- Copiez le lien :  https://github.com/ClemNTTS/IA_Planete_Mer.git
+- Copiez le lien :  https://github.com/ncourtel1/chatbot-for-PlaneteMer
 
 - Ouvrez VSCODE
 
-- Clonnez le lien : https://github.com/ClemNTTS/IA_Planete_Mer.git
+- Clonnez le lien : https://github.com/ncourtel1/chatbot-for-PlaneteMer
 
 
 ## Installation
